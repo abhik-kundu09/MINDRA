@@ -5,7 +5,7 @@
 (() => {
   'use strict';
 
-  const API_URL = 'https://mindra-wjcg.onrender.com/predict';
+  const API_URL = 'https://mindra-wjcg.onrender.com/predict'; // Update this to the FastAPI server URL
 
   const LOADING_MESSAGES = [
     'Looking at your lifestyle patterns',
