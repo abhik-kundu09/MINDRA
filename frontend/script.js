@@ -5,7 +5,7 @@
 (() => {
   'use strict';
 
-  const API_URL = 'https://mindra-wjcg.onrender.com';
+  const API_URL = 'https://mindra-wjcg.onrender.com/predict';
 
   const LOADING_MESSAGES = [
     'Looking at your lifestyle patterns',
