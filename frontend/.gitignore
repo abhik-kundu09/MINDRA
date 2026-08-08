@@ -1,1 +1,10 @@
+# Vercel
 .vercel
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+venv/
+
+# Environment
+.env
